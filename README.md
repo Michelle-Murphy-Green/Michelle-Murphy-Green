@@ -21,15 +21,15 @@
 
 ### Programming Languages
 
-![R](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F28C28?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge&logoColor=white)
 
 ### Data Science & Machine Learning Libraries
 
 ![Pandas](https://img.shields.io/badge/Pandas-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Numpy](https://img.shields.io/badge/Numpy-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 ### Visualization
