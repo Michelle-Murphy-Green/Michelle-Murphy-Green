@@ -27,9 +27,13 @@
 
 ## Data Science & Machine Learning Libraries
 
+![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![tidyr](https://img.shields.io/badge/tidyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-F28C28?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-F28C28?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F28C28?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-F28C28?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 
 ## Visualization
 
