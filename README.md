@@ -25,23 +25,23 @@
 ![Python](https://img.shields.io/badge/Python-F28C28?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge&logoColor=white)
 
-### Data Science & Machine Learning Libraries
+## Data Science & Machine Learning Libraries
 
-![Pandas](https://img.shields.io/badge/Pandas-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Numpy](https://img.shields.io/badge/Numpy-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-F28C28?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-F28C28?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F28C28?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+## Visualization
 
-### Visualization
-![ggplot2](https://img.shields.io/badge/ggplot2-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F28C28?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-F28C28?style=for-the-badge&logoColor=white)
 
-### Development Tools
-![R Studio](https://img.shields.io/badge/R%20Studio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+## Development Tools
 
+![RStudio](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F28C28?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7B2CBF?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 **Michelle-Murphy-Green/Michelle-Murphy-Green** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
