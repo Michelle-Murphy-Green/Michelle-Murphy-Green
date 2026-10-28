@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-F28C28?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge&logoColor=white)
 
-## Data Science & Machine Learning Libraries
+### Data Science & Machine Learning Libraries
 
 ![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![tidyr](https://img.shields.io/badge/tidyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -35,13 +35,13 @@
 ![statsmodels](https://img.shields.io/badge/statsmodels-F28C28?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
-## Visualization
+### Visualization
 
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F28C28?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-F28C28?style=for-the-badge&logoColor=white)
 
-## Development Tools
+### Development Tools
 
 ![RStudio](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F28C28?style=for-the-badge&logo=jupyter&logoColor=white)
