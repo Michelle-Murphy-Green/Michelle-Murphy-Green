@@ -21,31 +21,31 @@
 
 ### Programming Languages
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F28C28?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-F28C28?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge)
 
 ### Data Science & Machine Learning Libraries
 
-![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![tidyr](https://img.shields.io/badge/tidyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-F28C28?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-F28C28?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F28C28?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-F28C28?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge)
+![tidyr](https://img.shields.io/badge/tidyr-276DC3?style=for-the-badge)
+![pandas](https://img.shields.io/badge/pandas-F28C28?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-F28C28?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F28C28?style=for-the-badge)
+![statsmodels](https://img.shields.io/badge/statsmodels-F28C28?style=for-the-badge)
 
 
 ### Visualization
 
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F28C28?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-F28C28?style=for-the-badge&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F28C28?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-F28C28?style=for-the-badge)
 
 ### Development Tools
 
-![RStudio](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F28C28?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7B2CBF?style=for-the-badge&logo=git&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F28C28?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-7B2CBF?style=for-the-badge)
 
 <!--
 **Michelle-Murphy-Green/Michelle-Murphy-Green** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
