@@ -15,7 +15,6 @@
 
 #### I can be reached at:
 #### 🤝 LinkedIn (www.linkedin.com/in/michelle-murphy-green)
-#### 📫 Email (michelle.murphy.green@gmail.com)
 
 ## Tech Stack
 
