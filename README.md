@@ -32,7 +32,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-F28C28?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F28C28?style=for-the-badge)
 ![statsmodels](https://img.shields.io/badge/statsmodels-F28C28?style=for-the-badge)
-![Scanpy](https://img.shields.io/badge/pandas-F28C28?style=for-the-badge)
+![Scanpy](https://img.shields.io/badge/Scanpy-F28C28?style=for-the-badge)
 
 
 ### Visualization
