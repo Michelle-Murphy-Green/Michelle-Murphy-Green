@@ -3,9 +3,10 @@
 #### I am currently a postdoctoral research fellow at Indiana University School of Medicine in the Department of Biostatistics and Health Data Sciences. My research focuses on neural development and the impact of early life environmental abnormalities (drug exposure) and late life cognitive decline (Alzheimer's disease) on biomarkers, neuroimaging data, and cognitive performance. 
 
 #### My educational background is:
-#### 📚 🎓 Bachelor of Arts - Psychology & Spanish - Franklin College 
-#### 🔬 🎓 Master of Science - Biotechnology - Indiana University Bloomington
 #### 🏛️ 🎓 PhD - Neuroscience & Psychology - Indiana University Bloomington
+#### 🔬 🎓 Master of Science - Biotechnology - Indiana University Bloomington
+#### 📚 🎓 Bachelor of Arts - Psychology & Spanish - Franklin College 
+
 
 #### I specialize in:  
 #### 🧹 Cleaning, transforming, and organizing raw data
